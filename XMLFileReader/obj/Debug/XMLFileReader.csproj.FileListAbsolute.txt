@@ -1,0 +1,6 @@
+C:\Users\sathishkumar.devados\source\repos\XMLFileReader\XMLFileReader\bin\Debug\XMLFileReader.exe.config
+C:\Users\sathishkumar.devados\source\repos\XMLFileReader\XMLFileReader\bin\Debug\XMLFileReader.exe
+C:\Users\sathishkumar.devados\source\repos\XMLFileReader\XMLFileReader\bin\Debug\XMLFileReader.pdb
+C:\Users\sathishkumar.devados\source\repos\XMLFileReader\XMLFileReader\obj\Debug\XMLFileReader.csproj.CoreCompileInputs.cache
+C:\Users\sathishkumar.devados\source\repos\XMLFileReader\XMLFileReader\obj\Debug\XMLFileReader.exe
+C:\Users\sathishkumar.devados\source\repos\XMLFileReader\XMLFileReader\obj\Debug\XMLFileReader.pdb
